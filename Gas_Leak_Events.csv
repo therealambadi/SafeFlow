@@ -1,0 +1,13 @@
+Timestamp,Gas_PPM,Weight_kg,Valve_State,Alarm_Active,Persistent_Leak,Status,Notes
+2025-05-17 13:01:55,2038,0.0,closed,true,true,DANGER - Gas Leak,
+2025-05-17 13:51:37,641,0.0,closed,true,true,DANGER - Gas Leak,
+2025-05-17 13:52:55,942,2.5,closed,true,true,DANGER - Gas Leak,
+2025-05-17 14:24:19,400,0.0,closed,true,true,DANGER - Gas Leak,
+2025-05-17 14:38:42,711,0.0,closed,true,true,DANGER - Gas Leak,
+2025-05-17 14:49:15,504,1.7,closed,true,true,DANGER - Gas Leak,
+2025-05-17 15:16:27,151186724356096,1.7,closed,true,true,DANGER - Gas Leak,Outlier PPM value
+2025-05-17 15:22:45,5668,1.7,closed,true,true,DANGER - Gas Leak,
+2025-05-17 15:44:20,443,1.7,closed,true,true,DANGER - Gas Leak,
+2025-05-17 16:02:05,151186724356096,1.7,closed,true,true,DANGER - Gas Leak,Outlier PPM value
+2025-05-17 16:06:55,151186724356096,1.7,closed,true,true,DANGER - Gas Leak,Outlier PPM value
+2025-05-17 16:10:45,343,1.7,closed,true,true,DANGER - Gas Leak,

@@ -1,0 +1,14 @@
+Timestamp,Known_Weight_kg,Measured_Weight_kg,Error_kg,Notes
+2025-05-17 09:00:00,2.0,2.0,0.0,Calibration with 2 kg known weight
+2025-05-17 09:38:09.587Z,2.0,1.70366,0.29634,From Firebase gasUsage report
+2025-05-17 13:52:55,2.0,2.5,-0.5,Telegram log
+2025-05-17 13:53:12,2.0,1.4,0.6,Telegram log
+2025-05-17 14:15:56,2.0,0.2,1.8,Telegram log
+2025-05-17 14:40:46,2.0,0.3,1.7,Telegram log
+2025-05-17 14:49:15,2.0,1.7,0.3,Telegram log
+2025-05-17 15:16:27,2.0,1.7,0.3,Telegram log
+2025-05-17 15:22:45,2.0,1.7,0.3,Telegram log
+2025-05-17 15:44:20,2.0,1.7,0.3,Telegram log
+2025-05-17 16:02:05,2.0,1.7,0.3,Telegram log
+2025-05-17 16:06:55,2.0,1.7,0.3,Telegram log
+2025-05-17 16:10:45,2.0,1.7,0.3,Telegram log

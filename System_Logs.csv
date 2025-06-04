@@ -1,0 +1,48 @@
+Timestamp,Weight_kg,Gas_PPM,Valve_State,Status,Auto_Booking,RSSI_dBm,Alarm_Active,Persistent_Leak,Event,Order_ID
+2025-05-17T09:38:09.587Z,1.70366,20.37774,closed,Safe,false,-46,false,false,Gas Usage Report,
+2025-05-17 12:55:17,0.0,,open,,true,-38,,false,System Started,
+2025-05-17 12:55:23,0.0,,open,,true,-38,,false,Low Gas Alert,GAS53357
+2025-05-17 12:55:43,0.0,,open,,true,-38,,false,Low Gas Alert,GAS95432
+2025-05-17 13:01:55,0.0,2038,closed,DANGER - Gas Leak,true,-38,true,true,Gas Leak Detected,
+2025-05-17 13:02:06,0.0,,closed,Safe,true,-38,,true,Gas Leak Resolved,
+2025-05-17 13:51:17,0.0,,open,,true,-45,,false,System Started,
+2025-05-17 13:51:22,0.0,,open,,true,-45,,false,Low Gas Alert,GAS31232
+2025-05-17 13:51:37,0.0,641,closed,DANGER - Gas Leak,true,-45,true,true,Gas Leak Detected,
+2025-05-17 13:51:44,0.0,,closed,Safe,true,-45,,true,Gas Leak Resolved,
+2025-05-17 13:52:07,0.0,,open,,true,-50,,false,System Started,
+2025-05-17 13:52:11,0.0,,open,,true,-50,,false,Low Gas Alert,GAS80797
+2025-05-17 13:52:55,2.5,942,closed,DANGER - Gas Leak,true,-50,true,true,Gas Leak Detected,
+2025-05-17 13:53:01,2.5,,closed,Safe,true,-50,,true,Gas Leak Resolved,
+2025-05-17 13:53:12,1.4,,open,,true,-50,,false,Low Gas Alert,GAS82900
+2025-05-17 14:03:16,0.0,,open,,true,-70,,false,System Started,
+2025-05-17 14:03:21,0.0,,open,,true,-70,,false,Low Gas Alert,GAS88426
+2025-05-17 14:03:48,1.4,,open,,true,-70,,false,Low Gas Alert,GAS89270
+2025-05-17 14:15:56,0.2,,closed,Safe,true,-48,,true,Gas Leak Resolved,
+2025-05-17 14:16:29,0.0,,open,,true,-43,,false,System Started,
+2025-05-17 14:16:35,0.0,,open,,true,-43,,false,Low Gas Alert,GAS90382
+2025-05-17 14:24:04,0.0,,open,,true,-47,,false,System Started,
+2025-05-17 14:24:10,0.0,,open,,true,-47,,false,Low Gas Alert,GAS33816
+2025-05-17 14:24:19,0.0,400,closed,DANGER - Gas Leak,true,-47,true,true,Gas Leak Detected,
+2025-05-17 14:24:25,0.0,,closed,Safe,true,-47,,true,Gas Leak Resolved,
+2025-05-17 14:38:28,0.0,,open,,true,-49,,false,Low Gas Alert,GAS46958
+2025-05-17 14:38:42,0.0,711,closed,DANGER - Gas Leak,true,-49,true,true,Gas Leak Detected,
+2025-05-17 14:38:49,0.0,,closed,Safe,true,-49,,true,Gas Leak Resolved,
+2025-05-17 14:39:19,0.0,,open,,true,-49,,false,System Started,
+2025-05-17 14:39:23,0.0,,open,,true,-49,,false,Low Gas Alert,GAS30411
+2025-05-17 14:40:46,0.3,,open,,true,-49,,false,Low Gas Alert,GAS46367
+2025-05-17 14:49:15,1.7,504,closed,DANGER - Gas Leak,true,-44,true,true,Gas Leak Detected,
+2025-05-17 14:49:22,1.7,,closed,Safe,true,-44,,true,Gas Leak Resolved,
+2025-05-17 15:16:27,1.7,151186724356096,closed,DANGER - Gas Leak,true,-44,true,true,Gas Leak Detected,
+2025-05-17 15:16:35,1.7,,closed,Safe,true,-44,,true,Gas Leak Resolved,
+2025-05-17 15:22:45,1.7,5668,closed,DANGER - Gas Leak,true,-41,true,true,Gas Leak Detected,
+2025-05-17 15:22:58,1.7,,closed,Safe,true,-41,,true,Gas Leak Resolved,
+2025-05-17 15:44:20,1.7,443,closed,DANGER - Gas Leak,true,-34,true,true,Gas Leak Detected,
+2025-05-17 15:44:32,1.7,,closed,Safe,true,-34,,true,Gas Leak Resolved,
+2025-05-17 16:02:05,1.7,151186724356096,closed,DANGER - Gas Leak,true,-38,true,true,Gas Leak Detected,
+2025-05-17 16:02:17,1.7,,closed,Safe,true,-38,,true,Gas Leak Resolved,
+2025-05-17 16:06:55,1.7,151186724356096,closed,DANGER - Gas Leak,true,-43,true,true,Gas Leak Detected,
+2025-05-17 16:07:09,1.7,,closed,Safe,true,-43,,true,Gas Leak Resolved,
+2025-05-17 16:10:45,1.7,343,closed,DANGER - Gas Leak,true,-33,true,true,Gas Leak Detected,
+2025-05-17 16:10:56,1.7,,closed,Safe,true,-33,,true,Gas Leak Resolved,
+2025-05-17 16:53:15,0.0,,open,,true,-33,,false,System Started,
+2025-05-17 16:53:35,0.0,,open,,true,-33,,false,Low Gas Alert,GAS90318
