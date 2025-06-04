@@ -1,0 +1,23 @@
+{
+  "commands": {
+    "valve": "closed"
+  },
+  "gasUsage": {
+    "analyzed_report": "**Gas Safety Report Summary**\n\n**Report Date:** May 17, 2025  \n**Safety Status:** Safe\n\n---\n\n**Key Findings:**\n- **Leak Status:** ✅ No persistent leaks detected.\n- **Gas Concentration:** \n  - Current level is at **20.38 PPM** (Parts Per Million), which is within normal limits for safety.\n- **Cylinder Weight:** \n  - The cylinder currently weighs **1.70 kg**, indicating an adequate gas supply.\n- **Auto Booking Feature:** \n  - The automatic booking system is **enabled**, ensuring timely management of gas supply.\n\n---\n\n**Additional Data:**\n- **Gas PPM Reading:** 20.37774 PPM (aligned with the above safety assessment)\n- **Cylinder Weight Precision:** 1.70366 kg\n- **Valve Status:** The gas valve is confirmed to be **closed**.\n- **RSSI (Signal Strength):** -46 (indicates good communication with monitoring system)\n\n---\n\n**Recommendations for Facility Management:**\n1. **Regular Monitoring:**\n   - Continuously observe gas levels to ensure they remain stable and within the safe range.\n  \n2. **Check Valve Status:**\n   - Regularly inspect the gas valve to confirm it stays in the closed position unless active use is required.\n  \n3. **Leak Detection:**\n   - If, in the future, any leak is reported, prioritize scheduling repairs promptly to maintain safety.\n\n4. **Ventilation:**\n   - Ensure proper ventilation in the gas storage area to prevent the accumulation of gas, which could lead to hazardous situations.\n\n---\n\n**Conclusion:**\nYour facility is currently operating safely with no detected risks. However, regular maintenance and monitoring are essential to uphold this safety status. Please implement the above recommendations to ensure ongoing safety and efficiency in your gas management practices. If there are any concerns or if further assistance is needed, don't hesitate to reach out!",
+    "timestamp": "2025-05-17T09:38:09.587Z"
+  },
+  "latest": {
+    "alarm_active": false,
+    "auto_booking": false,
+    "gas_ppm": 29.36308,
+    "persistent_leak": false,
+    "rssi": -37,
+    "status": "Safe",
+    "timestamp": "2025-05-17 16:54:42",
+    "valve_state": "closed",
+    "weight": 1.71865
+  },
+  "settings": {
+    "autoBooking": false
+  }
+}
